@@ -1,3 +1,5 @@
-# react-v9j8wy
+# Random Color Picker
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-v9j8wy)
+In this project, we’ll build a program that helps designers think of new color schemes.
+
+Our program will set the screen’s background to a random color. Clicking a button will refresh to a new, random color. Random generators are a well-known tool for breaking a creative rut.
